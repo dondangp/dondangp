@@ -4,7 +4,7 @@ I will be graduating with an Honors Bachelor of Science in Computer Science from
 
 ## Portfolio 📁
 
-### [employease.tech (HackTX '23 UT Austin Winner )](https://devpost.com/software/employease) 🛢️
+### [Employease.tech (HackTX '23 UT Austin Winner )](https://devpost.com/software/employease) 🛢️
 
 - **Technologies**: ReactJS, Azure, Docker, LLM, RAG, Natural Language Processing, MongoDB
 - **Date**: Oct 2023
