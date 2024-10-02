@@ -14,7 +14,7 @@ I'm planning to graduate with a Honors Bachelor of Science in Computer Science a
 - **Technologies**: Python, MongoDB, Docker, Google Cloud
 - **Date**: Sep 2023
 
-### [Research Paper Publication: D2S2](https://2023.esec-fse.org/details/fse-2023-demonstrations/11/D2S2-Drag-n-Drop-Mobile-App-Screen-Search) 🏆
+### [Research Paper Publication: D2S2](https://2023.esec-fse.org/details/fse-2023-demonstrations/11/D2S2-Drag-n-Drop-Mobile-App-Screen-Search) 📝
 - **Technologies**: ReactJS, Azure, Docker, Amazon EC2, AI Technologies
 - **Date**: Dec 2023
 
