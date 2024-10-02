@@ -15,7 +15,7 @@ I am graduating with an Honors Bachelor of Science in Computer Science at the Un
 - **Date**: Sep 2023
 
 ### [Research Paper Publication: D2S2](https://2023.esec-fse.org/details/fse-2023-demonstrations/11/D2S2-Drag-n-Drop-Mobile-App-Screen-Search) 📝
-- **Technologies**: ReactJS, Azure, Docker, Amazon EC2, AI Technologies
+- **Technologies**: ReactJS, Azure, Docker, AWS, AI Technologies
 - **Date**: Dec 2023
 
 ## Connect with me!
