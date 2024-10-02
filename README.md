@@ -1,6 +1,6 @@
 # Hi i'm Don 👋
 
-I'm planning to graduate with a Honors Bachelor of Science in Computer Science at the University of Texas at Arlington. I will be completing a Masters in Computer Science at the University of Texas at Arlington.
+I'm planning to graduate with a Honors Bachelor of Science in Computer Science at the University of Texas at Arlington - Summa Cum Laude. Then I will be completing a Masters in Computer Science at Georgia Institute of Technology.
 
 ## Portfolio 📁
 
