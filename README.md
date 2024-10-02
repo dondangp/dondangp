@@ -4,7 +4,7 @@ I'm planning to graduate with a Honors Bachelor of Science in Computer Science a
 
 ## Portfolio 📁
 
-### [employease.tech (HackTX '23 UT Austin Winner ))](https://devpost.com/software/employease) 🛢️
+### [employease.tech (HackTX '23 UT Austin Winner )](https://devpost.com/software/employease) 🛢️
 
 - **Technologies**: ReactJS, Azure, Docker, LLM, RAG, Natural Language Processing, MongoDB
 - **Date**: Oct 2023
@@ -15,6 +15,8 @@ I'm planning to graduate with a Honors Bachelor of Science in Computer Science a
 - **Date**: Sep 2023
 
 ### [Research Paper Publication: D2S2](https://2023.esec-fse.org/details/fse-2023-demonstrations/11/D2S2-Drag-n-Drop-Mobile-App-Screen-Search) 🏆
+- **Technologies**: ReactJS, Azure, Docker, Amazon EC2, AI Technologies
+- **Date**: Dec 2023
 
 ## Connect with me!
 
