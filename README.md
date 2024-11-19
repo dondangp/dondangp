@@ -7,7 +7,7 @@ Clubs:
 - Tau Beta Pi Honors Society
 - Upsilon Pi Epsilon Honors Society
 
-## Portfolio 📁
+## Rewards 📁
 
 ### [Employease.tech (HackTX '23 UT Austin Winner )](https://devpost.com/software/employease) 🛢️
 
