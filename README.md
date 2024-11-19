@@ -2,7 +2,7 @@
 
 I will be graduating with an Honors Bachelor of Science in Computer Science from the University of Texas at Arlington, with the distinction of Summa Cum Laude. Following this, I will pursue a Master of Science in Computer Science at the Georgia Institute of Technology.
 
-Involvements: 
+Clubs: 
 - Honors College for Computer Science
 - Tau Beta Pi Honors Society
 - Upsilon Pi Epsilon Honors Society
