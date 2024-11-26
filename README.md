@@ -6,6 +6,7 @@ Clubs:
 - Honors College for Computer Science
 - Tau Beta Pi Honors Society
 - Upsilon Pi Epsilon Honors Society
+- Phi Kappa Phi Honors Society
 
 ## Rewards 📁
 
