@@ -24,7 +24,7 @@ Clubs:
 - **Technologies**: ReactJS, Azure, Docker, AWS, AI Technologies
 - **Date**: Dec 2023
 
-### UTA Computer Science & Engineering Dean's List 2021-2024 📝
+### UTA Computer Science & Engineering Dean's List 2021-2024 
 - **Technologies**: ReactJS, Azure, Docker, AWS, AI Technologies
 - **Date**: 2021-2024
 
