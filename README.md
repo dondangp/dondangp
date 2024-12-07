@@ -2,6 +2,8 @@
 
 I will be graduating with an Honors Bachelor of Science in Computer Science from the University of Texas at Arlington, with the distinction of Summa Cum Laude. 
 
+GPA: 4.0
+
 Clubs: 
 - Honors College for Computer Science
 - Tau Beta Pi Honors Society
