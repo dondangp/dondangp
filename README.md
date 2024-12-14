@@ -4,7 +4,7 @@ I will be graduating with an Honors Bachelor of Science in Computer Science from
 
 GPA: 4.0 out of 4.0
 
-Clubs: 
+Associations: 
 - Honors College for Computer Science
 - Tau Beta Pi Honors Society
 - Upsilon Pi Epsilon Honors Society
